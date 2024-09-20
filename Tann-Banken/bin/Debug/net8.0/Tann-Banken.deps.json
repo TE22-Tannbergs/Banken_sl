@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tann-Banken/1.0.0": {
+        "runtime": {
+          "Tann-Banken.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tann-Banken/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
